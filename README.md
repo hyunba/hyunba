@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
+![NestJs](https://img.shields.io/badge/-NestJs-222222?style=flat&logo=nestjs)
 ![styled-components](https://img.shields.io/badge/-styled--components-222222?style=flat&logo=styledcomponents)
 ![Framer-motion](https://img.shields.io/badge/-Framer--motion-222222?style=flat&logo=framer-motion)
